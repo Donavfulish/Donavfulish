@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Đỗ Văn Hà</h1>
-<h3 align="center">A passionate backend developer from VietNam</h3>
+<h3 align="center">A passionate software engineer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donavfulish&label=Profile%20views&color=0e75b6&style=flat" alt="donavfulish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donavfulish" alt="donavfulish" /></a> </p>
 
-- 🔭 I’m currently working on [EcoWarriors](https://github.com/Donavfulish/EcoWarriors_TangramWorldandMosquito)
+- 🔭 I’m currently working on [Casso](https://casso.vn/)
 
-- 🌱 I’m currently learning **NextJs, DevOps and LLM**
+- 🌱 I’m currently learning **GoLang, TypeScripts**
 
-- 👯 I’m looking to collaborate on **any software projects**
+- 👯 I’m looking to collaborate on **PERN software projects**
 
-- 🤝 I’m looking for help with **microsevices projects**
+- 🤝 I’m looking for help with **LLM**
 
 - 📫 How to reach me **flazerfa123@gmail.com**
 
