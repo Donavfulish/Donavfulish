@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **LLM**
 
-- 📫 How to reach me **flazerfa123@gmail.com**
+- 📫 How to reach me **dovanha.swe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
