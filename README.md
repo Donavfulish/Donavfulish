@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donavfulish&label=Profile%20views&color=0e75b6&style=flat" alt="donavfulish" /> </p>
 
-- 🔭 I’m currently working on [Casso](https://casso.vn/)
-
+- 🔭 I’m used to working on [Casso](https://casso.vn/) and [NAB]([https://casso.vn/](https://www.nab.com.au/about-us/careers/nabvietnam))
+ 
 - 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **PERN software projects**
